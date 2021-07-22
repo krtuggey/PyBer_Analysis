@@ -19,7 +19,6 @@ After reviewing the analysis above, I found some noteable activity.
 - Urban cities have the highest amount of riders while rural cities have the lowest.
 - Urban cities have about 5 times the amount of drivers than Surbancities do, and and over 30 times the amount of rural drivers.
 - Despite having the lowest amount of drivers and riders, rural cities have the highest number in both average fare for rider and average fare for driver. 
-- In rural cities, for every ride there is 1.6 drivers. In urban cities, for every ride there is 0.67 drivers. It is safe to say from this data that there are higher fares within cities with more drivers for every ride. 
 
 ## Summary
 Based on the analysis and summary created, I have three business recommendations:
