@@ -6,7 +6,7 @@ Analyzing and visualization ridesharing data using Python and Jupyter Notebook.
  - Software: Python 3.7.6, Jupyter Notebook 6.3
 
 ## Overview
-The purpose of this project was to gain insight into the the relationships between ridesharing data types. The analysis conducted focused on the city "type" (suburban, rural, or urban) and how the city related to ridesharing fares, driver counts, and rider counts. The visualizations were created to inform the ridesharing company, PyBer, and lend understanding to how they can improve their business. 
+The purpose of this project was to gain insight into the the relationships between ridesharing data types. The analysis focused on the city "type" (suburban, rural, or urban) and how the city type related to ridesharing fares, driver counts, and rider counts. The visualizations and summary were created to inform the ridesharing company, PyBer, and lend understanding to how they can improve their business. 
 
 ## Results
 After creating data frames from the provided .csv's, I was able to manipulate the data to create a summary and visualization of PyBer's ridesharing data. 
@@ -22,6 +22,6 @@ After reviewing the analysis above, I found some noteable activity.
 
 ## Summary
 Based on the analysis and summary created, I have three business recommendations:
-- Discover what times are peak hours for each city type. This period of time is the best for revenue and the amount of drivers available during that time will affect the business. 
+- Discover what times are considered peak hours for each city type. This period of time is the best for revenue and the amount of drivers available during that time will affect that revenue.
 - In general, I would advise the company to hire more drivers for the rural areas. The average fares suggest that the drivers are driving long distances, which can preoccupy drivers. During peak hours, having a larger amount of available drivers will increase revenue.
 - This recommendation applies to the suburban areas as well. Additional drivers can be hired for the suburban areas to improve availability during peak hours. 
